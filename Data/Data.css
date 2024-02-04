@@ -1,0 +1,22 @@
+.table_contain{
+    padding: 40px 40px 30px;
+}
+
+.input_contain{
+    padding-bottom: 5px;
+}
+.input_contain input{
+    width: 250px;
+    height: 30px;
+}
+.input_contain button{
+    width: 80px;
+    height: 30px;
+    background: rgb(32, 205, 205);
+    
+}
+table{
+   
+    width: 100%;
+    text-align: center;
+}
